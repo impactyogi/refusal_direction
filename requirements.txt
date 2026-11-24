@@ -81,7 +81,7 @@ nvidia-nccl-cu12==2.20.5
 nvidia-nvjitlink-cu12==12.5.40
 nvidia-nvtx-cu12==12.1.105
 openai==1.33.0
-orjson==3.10.4
+orjson==3.11.6
 outlines==0.0.43
 packaging==24.1
 pandas==2.2.2
